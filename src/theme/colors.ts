@@ -1,0 +1,9 @@
+export const GREEN = "#245F40";
+export const GREEN_2 = "#2F7650";
+export const CREAM = "#F6F8E9";
+export const CARD = "#FFFFFF";
+export const TEXT = "#11180F";
+export const MUTED = "#66705F";
+export const LIME = "#DDE9A8";
+export const RED = "#E56B5D";
+export const ORANGE = "#F3A847";
